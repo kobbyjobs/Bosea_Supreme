@@ -7,7 +7,7 @@ loanAmount = input("How much do you wish to secure ")
 loanAmount = float(loanAmount)
 repaymentAmount = input ("State repayment for the first month ")
 repaymentAmount = float(repaymentAmount)
-#Loan durtation fro supreme should be within 31 to 62 days 
+#Loan durtation from supreme should be within 31 to 62 days 
 loanDuration = input("How long do you want the loan for ")
 loanDuration = int(loanDuration)
 #Convert the duration into days
