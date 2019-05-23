@@ -1,4 +1,4 @@
-#This project is to test the Bosea Flexi loan computation
+#This project is to test the Bosea Supreme loan computation
 #formula is ((l*1.i)-r)+(outstanding*1.i)
 loanAmount = 0
 repaymentAmount = 0
